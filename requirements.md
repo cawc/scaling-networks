@@ -9,4 +9,5 @@ Voor de Aziatische vestiging zijn volgende VLANs voorzien:
 * VLAN 150: Voice
 
 Aantal Verdiepingen: 21
+
 Aantal Gebouwen: 2
