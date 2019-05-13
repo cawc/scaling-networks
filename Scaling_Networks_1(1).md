@@ -44,6 +44,9 @@ Zorg dat ieder gebouw voorzien wordt van een enkele L3 toegang tot de verschille
 
 Hoewel de routers een verbinding hebben tot de verschillende ISP’s dienen jullie ervoor te zorgen dat de toegang in de verschillende gebouwen tot het Internet verdeeld wordt tussen de twee ISP’s. Voorzie uiteraard ook een redundante verbinding en eventuele failover met de andere ISP. Elke ISP stelt vijf IP’s ter beschikking: een voor de router en de overige vier voor NAT. Communicatie tussen de verschillende gebouwen dient uiteraard niet via de ISP’s te verlopen.
 
+* AU: 1.1.1.2/24 tot en met 1.1.1.6/24
+* Fusion GOL: 2.2.2.2/24 tot en met 2.2.2.6/24
+
 Voor de Aziatische vestiging zijn volgende VLANs voorzien:
 
 * VLAN 66: Boekhouding
