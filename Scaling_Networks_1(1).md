@@ -58,14 +58,14 @@ Voor de Aziatische vestiging zijn volgende VLANs voorzien:
 
 Zorg dat volgende technologieën gebruikt worden:
 
-1. VTP
-2. DTP
+1. VTP ✅
+2. DTP ✅
 3. Inter-VLAN routering
 4. Dynamische routing (multi area OSPF en EIGRP)
-5. STP
-6. Etherchannel en LACP
+5. STP ✅
+6. Etherchannel en LACP ✅
 7. HSRP
 8. Dynamische NAT
-9. QoS (optioneel)
+9. QoS (optioneel) 😲
 
 Succes!
